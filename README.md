@@ -15,7 +15,7 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Nguyen Duc Nguyen (MSc Students, Engineer)
 
 ## Science
-Hà Bùi Khô Nguyên (BSc Student, TBC)
-Ho Khue (BSc Student, TBC)
+- Hà Bùi Khôi Nguyên (BSc Student, TBC)
+- Ho Khue (BSc Student, TBC)
 
 References:
