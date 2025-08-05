@@ -11,11 +11,11 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Pham Viet Dung  
 - Hoang Kim Dinh  
 - Han Huy Dung  
-- Hoang Trung Nguyen  
-- Nguyen Duc Nguyen 
+- Hoang Trung Nguyen (Engineer)  
+- Nguyen Duc Nguyen (MSc Students, Engineer)
 
 ## Science
-Hà Bùi Khô Nguyên ( Student, TBC)
-Ho Khue (Student, TBC)
+Hà Bùi Khô Nguyên (BSc Student, TBC)
+Ho Khue (BSc Student, TBC)
 
 References:
