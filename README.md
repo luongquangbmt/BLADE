@@ -13,9 +13,16 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Han Huy Dung  
 - Hoang Trung Nguyen (Engineer)  
 - Nguyen Duc Nguyen (MSc Students, Engineer)
+- Quế (PhD student, TBC)
+- NhD (PhD student, TBC) 
+## Science students
+- Hà Bùi Khôi Nguyên (BSc Student, USTH, TBC)
 
-## Science
-- Hà Bùi Khôi Nguyên (BSc Student, TBC)
-- Ho Khue (BSc Student, TBC)
+## Engineering students
+- Ho Khue (BSc Student, IU, TBC)
+- Lưu Đình Hiển (BSc student, IU, TBC)
+- Phúc Vinh (Hinschu Uni, TBC)
+- Nguyên Tùng Lâm (USTH, TBC)
+
 
 References:
