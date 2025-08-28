@@ -14,13 +14,14 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Hoang Trung Nguyen (Engineer)  
 - Nguyen Duc Nguyen (MSc Students, Engineer)
 - Quế (PhD student, TBC)
-- NhD (PhD student, TBC) 
+- NhD (PhD student, TBC)
+- Le Hoang Long (Master, TBC)
 ## Science students
 - Hà Bùi Khôi Nguyên (BSc Student, USTH, TBC)
 
 ## Engineering students
 - Ho Khue (BSc Student, IU, TBC)
-- Lưu Đình Hiển (BSc student, IU, TBC)
+- Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn  (BSc student, IU, TBC)
 - Phúc Vinh (Hinschu Uni, TBC)
 - Nguyên Tùng Lâm (USTH, TBC)
 
