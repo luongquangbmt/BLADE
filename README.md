@@ -27,7 +27,8 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 
 ## Sub-(Student) Projects
 - commissioning of the 2-antenna system and the BLADERF FPGA (Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn)
-- Manufacture and Characterise the LPDA antenna (Dr. Pham Viet Dung)
+- Manufacture and Characterize the LPDA antenna (Dr. Pham Viet Dung and student)
 - Design a data center for BLADE-64 and BLADE-256
+- 16 antenna prototype
 
 References:
