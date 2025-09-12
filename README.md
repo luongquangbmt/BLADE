@@ -31,4 +31,6 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Design a data center for BLADE-64 and BLADE-256
 - 16 antenna prototype
 
-References:
+## Meetings
+12 Sep 2025: Antenna design
+## References:
