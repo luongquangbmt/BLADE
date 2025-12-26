@@ -13,8 +13,6 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Dr. Han Huy Dung  
 - Hoang Trung Nguyen (Engineer)  
 - Nguyen Duc Nguyen (MSc Students, Engineer)
-- Quế (PhD student, TBC)
-- NhD (PhD student, TBC)
 - Le Hoang Long (Master, TBC)
 ## Science students
 - Hà Bùi Khôi Nguyên (BSc Student, USTH, TBC)
@@ -24,6 +22,7 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn  (BSc student, IU, TBC)
 - Phúc Vinh (Hinschu Uni, TBC)
 - Nguyên Tùng Lâm (USTH, TBC)
+- Pham Ngoc Cuong (USTH)
 
 ## Sub-(Student) Projects
 - commissioning of the 2-antenna system and the BLADERF FPGA (Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn)
