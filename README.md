@@ -6,14 +6,17 @@ BLADE is a radio astronomy instrument in Vietnam designed to observe the Univers
 By combining a compact, scalable design with modern digital back-ends, BLADE enables high time-resolution and spectrally resolved observations, making it ideal for both survey science and targeted monitoring. Its architecture emphasizes low-noise performance and modularity, paving the way for deployment in remote, radio-quiet environments.
 
 # Member
+## Key researchers
 - Dr. Nguyen Luong Quang (Assistant Prof, Institute for Astronomy and Space Quantum Communications (IAS) & CEA Saclay)  
 - Dr. Phan Thanh Hien (Lecturer, Hanoi University of Science and Technology (USTH VietNam France University)  
 - Dr. Pham Viet Dung (Researcher, Vietnam National Space Cennter)  
 - Dr. Hoang Kim Dinh (Berkeley) 
 - Dr. Han Huy Dung (Lecturer, University of Science and Technology of Hanoi (Bach Khoa Hanoi))   
 - Dr. Le Minh Tan (Lecturer, Tây Nguyên University)  
-- Su (Researcher, Vietnam National Space Cennter)   
-## Science students
+- Su (Researcher, Vietnam National Space Cennter)
+- Lê Quang Thuỷ (Engineer , Quy Nhơn Observatory)
+
+  ## Science students
 - Hà Bùi Khôi Nguyên (BSc Student, USTH, TBC)
 
 ## Engineering students
