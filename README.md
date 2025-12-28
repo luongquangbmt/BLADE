@@ -12,7 +12,7 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Dr. Hoang Kim Dinh (Berkeley) 
 - Dr. Han Huy Dung (Lecturer, University of Science and Technology of Hanoi (Bach Khoa Hanoi))   
 - Dr. Le Minh Tan (Lecturer, Tây Nguyên University)  
-
+- Su (Researcher, Vietnam National Space Cennter)   
 ## Science students
 - Hà Bùi Khôi Nguyên (BSc Student, USTH, TBC)
 
@@ -31,21 +31,22 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 
 ## Sub-(Student) Projects/Time line:
 ### 2025
-- Commissioning of the 2-antenna system and the BLADERF FPGA (Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn)
-- Manufacture and Characterize the LPDA antenna (Dr. Pham Viet Dung and student)
-- Design a data center for BLADE-64 and BLADE-256
-- Radio site survey with single antenna: Daklak, Gia Lai
-- New BLADE antenna design: Pham Viet Dung
-- IU 2-antennas verification: Hậu, Hiển, Thi
-- Cost-effective BOM (antenna, cable, LNA, filter, FPGA): Phan Hien
-2 antenna BLADERF Sun’s fringe
+- Commissioning of the 2-antenna system and the BLADERF FPGA (Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn) (done)
+- Design and Simulate the LPDA antenna (Dr. Pham Viet Dung and student)
+- Radio site survey with single antenna: Daklak, Gia Lai (ongoing)
+- New antenna and frontend design: Pham Viet Dung (done)
+- 2 antenna BLADERF Sun’s fringe (done)
 
 ### 2026
 - 16 antenna array: January of 2026
-- Manufacture and characterize the optimal antenna: Pham Viet Dung, VNSC, Su
+- Manufacture and characterize the optimal antenna and PCB Frontend: Pham Viet Dung, VNSC, Su
+- Cost-effective BOM (antenna, cable, LNA, filter, FPGA): Phan Hien (ongoing) 
 - 2-BURSTT antenna system to continuously monitor the Sun: 
 - Optical fiber optics vs coaxial cable: Pham Viet Dung, Trung - need to use 100 Ohm system
-- 64 antenna: Quang 
+- 64 antenna
+- Design a data center for BLADE-64 and BLADE-256
+
+  
 ### 2027: 
 128-ant array or two 64-ant arrays
 ### 2028: 
