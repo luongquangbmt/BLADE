@@ -7,30 +7,31 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 
 # Member
 ## Key researchers
-- Dr. Nguyen Luong Quang (Assistant Prof, Institute for Astronomy and Space Quantum Communications (IAS) & CEA Saclay)  
-- Dr. Phan Thanh Hien (Lecturer, Hanoi University of Science and Technology (USTH VietNam France University)  
-- Dr. Pham Viet Dung (Researcher, Vietnam National Space Cennter)  
+- PI: Dr. Nguyen Luong Quang (Assistant Prof, Institute for Astronomy and Space Quantum Communications (IAS) & CEA Saclay)  
+- Chief designer: Dr. Pham Viet Dung (Researcher, Vietnam National Space Cennter)  
+- Deputy Chief designer: Dr. Phan Thanh Hien (Lecturer, Hanoi University of Science and Technology (USTH VietNam France University) 
+- Site manager: Lê Quang Thuỷ (Engineer , Quy Nhơn Observatory)
 - Dr. Hoang Kim Dinh (Berkeley) 
 - Dr. Han Huy Dung (Lecturer, University of Science and Technology of Hanoi (Bach Khoa Hanoi))   
 - Dr. Le Minh Tan (Lecturer, Tây Nguyên University)  
 - Su (Researcher, Vietnam National Space Cennter)
-- Lê Quang Thuỷ (Engineer , Quy Nhơn Observatory)
-
-  ## Science students
-- Hà Bùi Khôi Nguyên (BSc Student, USTH, TBC)
 
 ## Engineering students
-- Ho Khue (BSc Student, International University, National Univeristy of HCM)
-- Lưu Đình Hiển (International University, National Univeristy of HCM)
 - Nguyễn Thanh Hậu (International University, National Univeristy of HCM)
 - Thi Nguyễn  (International University, National Univeristy of HCM)
-- Phúc Vinh (Hinschu Uni, TBC)
 - Nguyên Tùng Lâm (USTH, TBC)
 - Pham Ngoc Cuong (USTH)
 - Quỳnh Anh (USTH)
 - Hoang Trung Nguyen (Engineer, Tây Nguyên University)  
 - Nguyen Duc Nguyen (MSc Students, Engineer, Osaka Metropolitan University, Institute for Astronomy and Space Quantum Communications (IAS))
 - Le Hoang Long (Master, TBC)
+
+  ## Former students
+- Hà Bùi Khôi Nguyên (BSc Student, USTH, TBC) - Science
+- Ho Khue (BSc Student, International University, National Univeristy of HCM)
+- Lưu Đình Hiển (International University, National Univeristy of HCM)
+- Phúc Vinh (Hinschu Uni, TBC)
+
 
 ## Sub-(Student) Projects/Time line:
 ### 2025
