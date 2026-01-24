@@ -17,9 +17,9 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Su (Researcher, Vietnam National Space Cennter)
 
 ## Engineering students
-- Nguyễn Thanh Hậu (International University, National Univeristy of HCM)
+- Nguyễn Thanh Hậu (International University, National Univeristy of HCM)   (in Taiwan Feb/Mar to August 31, 2026)
+- Nguyên Tùng Lâm (USTH)    (in Taiwan Feb/Mar to August 31, 2026)
 - Thi Nguyễn  (International University, National Univeristy of HCM)
-- Nguyên Tùng Lâm (USTH, TBC)
 - Pham Ngoc Cuong (USTH)
 - Quỳnh Anh (USTH)
 - Hoang Trung Nguyen (Engineer, Tây Nguyên University)  
