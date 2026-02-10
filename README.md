@@ -49,6 +49,7 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - 2-BURSTT antenna system to continuously monitor the Sun (Le Quang Thuy) (Feb 2026)
 - Optical fiber optics vs coaxial cable: Pham Viet Dung, Trung - need to use 100 Ohm system 
 - Design a data center for BLADE-16
+- Thảo luận với Cục tần số để giữ KKK radio-quiet
 
 
 ### 2025
