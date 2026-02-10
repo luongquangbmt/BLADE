@@ -54,7 +54,7 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 
 ### 2025
 - Commissioning of the 2-antenna system and the BLADERF FPGA (Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn) (Dec 2025)
-- Radio site survey with single antenna: Daklak, Gia Lai (July 2025)
+- Radio site survey with single antenna: Daklak, KKK Gia Lai (July 2025)
 - Design and Simulate the LPDA antenna (Dr. Pham Viet Dung and student) (Dec 2025)
 - BLADE 2: New antenna and frontend design: Pham Viet Dung (Dec 2025)
 - 2-antenna BLADERF Sun’s fringe (Dec 2025)
