@@ -34,27 +34,30 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 
 
 ## Sub-(Student) Projects/Time line:
-### 2025
-- Commissioning of the 2-antenna system and the BLADERF FPGA (Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn) (done)
-- Design and Simulate the LPDA antenna (Dr. Pham Viet Dung and student)
-- Radio site survey with single antenna: Daklak, Gia Lai (ongoing)
-- New antenna and frontend design: Pham Viet Dung (done)
-- 2 antenna BLADERF Sun’s fringe (done)
 
 ### 2026
-- 16 antenna array: January of 2026
-- Manufacture and characterize the optimal antenna and PCB Frontend: Pham Viet Dung, VNSC, Su
+- 16 antenna array with commercial LPDAs and BURSTT-Taiwan FEM: Q2 2026
+- Manufacture and characterize the optimal antenna and PCB Frontend: Pham Viet Dung, VNSC, Su (Q2)
 - Cost-effective BOM (antenna, cable, LNA, filter, FPGA): Phan Hien (ongoing) 
-- 2-BURSTT antenna system to continuously monitor the Sun: 
-- Optical fiber optics vs coaxial cable: Pham Viet Dung, Trung - need to use 100 Ohm system
-- 64 antenna
-- Design a data center for BLADE-64 and BLADE-256
+- 2-BURSTT antenna system to continuously monitor the Sun (Le Quang Thuy) (Feb 2026)
+- Optical fiber optics vs coaxial cable: Pham Viet Dung, Trung - need to use 100 Ohm system 
+- Design a data center for BLADE-16
 
   
 ### 2027: 
-128-ant array or two 64-ant arrays
+- 64 antenna
+- integrate BLADE's FEM and BLADE's Antenna
+
 ### 2028: 
 256-ant arrays
+
+
+### 2025
+- Commissioning of the 2-antenna system and the BLADERF FPGA (Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn) (Dec 2025)
+- Radio site survey with single antenna: Daklak, Gia Lai (July 2025)
+- Design and Simulate the LPDA antenna (Dr. Pham Viet Dung and student) (Dec 2025)
+- BLADE 2: New antenna and frontend design: Pham Viet Dung (Dec 2025)
+- 2-antenna BLADERF Sun’s fringe (Dec 2025)
 
 
 ## Meetings
@@ -67,4 +70,9 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 ### Other meetings
 - SKA https://indico.narit.or.th/event/228/
 
+### Possible collaborations
+- SKA-Low
+- LAMBDA (Australia, Jeff)
+- ATNF Radio SCHOOL (Travel grant, Huynh Minh)
+  
 ## References:
