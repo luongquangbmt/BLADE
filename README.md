@@ -44,12 +44,12 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Design a data center for BLADE-16
 
   
-### 2027: 
+### 2027 
 - 64 antenna
 - integrate BLADE's FEM and BLADE's Antenna
 
-### 2028: 
-256-ant arrays
+### 2028 
+- 256-ant arrays
 
 
 ### 2025
