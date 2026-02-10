@@ -35,6 +35,13 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 
 ## Sub-(Student) Projects/Time line:
 
+### 2028 
+- 256-ant arrays
+
+### 2027 
+- 64 antenna
+- integrate BLADE's FEM and BLADE's Antenna
+
 ### 2026
 - 16 antenna array with commercial LPDAs and BURSTT-Taiwan FEM: Q2 2026
 - Manufacture and characterize the optimal antenna and PCB Frontend: Pham Viet Dung, VNSC, Su (Q2)
@@ -42,14 +49,6 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - 2-BURSTT antenna system to continuously monitor the Sun (Le Quang Thuy) (Feb 2026)
 - Optical fiber optics vs coaxial cable: Pham Viet Dung, Trung - need to use 100 Ohm system 
 - Design a data center for BLADE-16
-
-  
-### 2027 
-- 64 antenna
-- integrate BLADE's FEM and BLADE's Antenna
-
-### 2028 
-- 256-ant arrays
 
 
 ### 2025
