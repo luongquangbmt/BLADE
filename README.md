@@ -20,15 +20,14 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Nguyễn Thanh Hậu (International University, National Univeristy of HCM)   (in Taiwan Feb/Mar to August 31, 2026)
 - Nguyên Tùng Lâm (USTH)    (in Taiwan Feb/Mar to August 31, 2026)
 - Thi Nguyễn  (International University, National Univeristy of HCM)
-- Pham Ngoc Cuong (USTH)
-- Quỳnh Anh (USTH)
-- Hoang Trung Nguyen (Engineer, Tây Nguyên University)  
-- Nguyen Duc Nguyen (MSc Students, Engineer, Osaka Metropolitan University, Institute for Astronomy and Space Quantum Communications (IAS))
+- Pham Ngoc Cuong (USTH graduate, MSc/PhD student @IAS/TNU)
+- Hoang Trung Nguyen (Engineer, Tây Nguyên University, MSc/PhD student @IAS/TNU)  
+- Nguyen Duc Nguyen (MSc Student, Engineer, Osaka Metropolitan University, Institute for Astronomy and Space Quantum Communications (IAS))
 - Le Hoang Long (Master, TBC)
 
   ## Former students
-- Hà Bùi Khôi Nguyên (BSc Student, USTH, TBC) - Science
-- Ho Khue (BSc Student, International University, National Univeristy of HCM)
+- Hà Bùi Khôi Nguyên (M1 Student, USTH, TBC) - Science
+- Ho Khue (BSc Graduate, International University, National Univeristy of HCM)
 - Lưu Đình Hiển (International University, National Univeristy of HCM)
 - Phúc Vinh (Hinschu Uni, TBC)
 
