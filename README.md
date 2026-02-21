@@ -80,6 +80,7 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 ## Learning materials
 
 BASIC_SOC_COURSE (Phạm Hoài Luân, NIST)
+
 https://drive.google.com/drive/folders/1z_dsyhdvAygoKctvRjZLVqsmxLip6J4u
 https://github.com/AISeQLab/BASIC_SOC_COURSE---PIO-Transfer_Petalinux-Install_on_FPGA
 https://github.com/AISeQLab/BASIC_SOC_COURSE---PIO-DMA-Transfer_ILA-debug_on_FPGA/tree/main
