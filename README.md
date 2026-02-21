@@ -75,3 +75,17 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - ATNF Radio SCHOOL (Travel grant, Huynh Minh)
   
 ## References:
+
+
+## Learning materials
+
+BASIC_SOC_COURSE (Phạm Hoài Luân, NIST)
+https://drive.google.com/drive/folders/1z_dsyhdvAygoKctvRjZLVqsmxLip6J4u
+https://github.com/AISeQLab/BASIC_SOC_COURSE---PIO-Transfer_Petalinux-Install_on_FPGA
+https://github.com/AISeQLab/BASIC_SOC_COURSE---PIO-DMA-Transfer_ILA-debug_on_FPGA/tree/main
+
+
+<img width="1118" height="727" alt="image" src="https://github.com/user-attachments/assets/84d56e58-d180-4c44-8ea3-3dab5ac455ef" />
+
+
+
