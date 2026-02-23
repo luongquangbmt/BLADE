@@ -24,6 +24,10 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Hoang Trung Nguyen (Engineer, Tây Nguyên University, MSc/PhD student @IAS/TNU)  
 - Nguyen Duc Nguyen (MSc Student, Engineer, Osaka Metropolitan University, Institute for Astronomy and Space Quantum Communications (IAS))
 - Le Hoang Long (Master, TBC)
+- Radia: fringe Simulation
+- F2: fringe Simulation
+- F3: fringe Simulation
+- F4: fringe Simulation
 
   ## Former students
 - Hà Bùi Khôi Nguyên (M1 Student, USTH, TBC) - Science
