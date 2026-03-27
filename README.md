@@ -14,15 +14,21 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - Dr. Hoang Kim Dinh (Berkeley) 
 - Dr. Han Huy Dung (Lecturer, University of Science and Technology of Hanoi (Bach Khoa Hanoi))   
 - Dr. Le Minh Tan (Lecturer, Tây Nguyên University)  
-- Su (Researcher, Vietnam National Space Cennter)
+- Su (Researcher, Vietnam National Space Cennter, TBC)
+- PhD Nhan (Astronomy Education, TBC)
+
+## PhD students
+- Do Minh Khoi (DAQ, PhD student)
+- DTA (Engineering, Data Analysis, PhD student)
+- NTD (Data Analysis, PhD student)
+- Pham Ngoc Cuong (OP, USTH graduate, MSc/PhD student @IAS/TNU)
+- Nguyen Duc Nguyen (OP, MSc Student, Engineer, Osaka Metropolitan University, Institute for Astronomy and Space Quantum Communications (IAS))
 
 ## Engineering students
 - Nguyễn Thanh Hậu (International University, National Univeristy of HCM)   (BSc graduate Sep 2026, in Taiwan Feb/Mar to August 31, 2026)
 - Nguyên Tùng Lâm (USTH)    (in Taiwan Feb/Mar to August 31, 2026)
-- Thi Nguyễn  (International University, National Univeristy of HCM)
-- Pham Ngoc Cuong (USTH graduate, MSc/PhD student @IAS/TNU)
+- Thi Nguyễn  (International University, National Univeristy of HCM, ASIAA summer)
 - Hoang Trung Nguyen (Engineer, Tây Nguyên University, MSc/PhD student @IAS/TNU)  
-- Nguyen Duc Nguyen (MSc Student, Engineer, Osaka Metropolitan University, Institute for Astronomy and Space Quantum Communications (IAS))
 - Le Hoang Long (Master, TBC)
 - Radia: fringe Simulation
 - F2: fringe Simulation
