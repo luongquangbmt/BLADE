@@ -22,7 +22,7 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 - DTA (Engineering, Data Analysis, PhD student)
 - NTD (Data Analysis, PhD student)
 - Pham Ngoc Cuong (OP, USTH graduate, MSc/PhD student @IAS/TNU)
-- Nguyen Duc Nguyen (OP, MSc Student, Engineer, Osaka Metropolitan University, Institute for Astronomy and Space Quantum Communications (IAS))
+- Nguyen Duc Nguyen (OP, MSc/PhD Student, Engineer, Osaka Metropolitan University)
 
 ## Engineering students
 - Nguyễn Thanh Hậu (International University, National Univeristy of HCM)   (BSc graduate Sep 2026, in Taiwan Feb/Mar to August 31, 2026)
