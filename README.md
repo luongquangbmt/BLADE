@@ -70,6 +70,7 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 
 
 ## Meetings
+- 03-04 Jun 2026 @ IOP/KonKakin: BLADE workshop
 - 12 Sep 2025 @ IOP/VAST Vietnam: Antenna design
 - Q1 2026 Workshops: FPGA and data acquistion (Mang Yang/Mang Den, Gia Lai),  ~March/April 2026 
 - Q2 2026
